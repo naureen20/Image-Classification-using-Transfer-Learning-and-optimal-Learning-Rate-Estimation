@@ -6,6 +6,7 @@ VGG16 model gave a training accuracy of 97.040 % and validation accuracy of 96.2
 <a href='#step2'>Image Preprocessing</a> 
 Includes Resizing, Reshaping, One-Hot vectorizing categories(animal names), Changing label names from Spanish to English, train-validation split and  Data Augmentation
 
-> 3. <a href='#step3.1'>Creating CNN Models with Transfer Learning </a>
+<a href='#step3.1'>Creating CNN Models with Transfer Learning </a>
 Includes creating VGG16 and ResNet50 models, obtaining a graph of Learning Rate vs epochs using the defined <a href='#step3.3'>Defining LEARNING RATE FINDER function </a>
 
+<img src="url/relativePath">
