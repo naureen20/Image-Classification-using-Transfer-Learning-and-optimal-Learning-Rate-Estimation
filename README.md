@@ -9,4 +9,5 @@ Includes Resizing, Reshaping, One-Hot vectorizing categories(animal names), Chan
 <a href='#step3.1'>Creating CNN Models with Transfer Learning </a>
 Includes creating VGG16 and ResNet50 models, obtaining a graph of Learning Rate vs epochs using the defined <a href='#step3.3'>Defining LEARNING RATE FINDER function </a>
 
-<img src="url/relativePath">
+<img src="https://github.com/naureen20/Image-Classification-using-Transfer-Learning-and-optimal-Learning-Rate-Estimation/blob/master/Resnet%20learning%20rate.png">
+The above image gives optimal learning rate for ResNet50
